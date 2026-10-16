@@ -1,7 +1,3 @@
-ip,latency_ms,speed_mbps,colo,port
-,,,CF,
-,,,CF,
-,,,CF,
-,,,CF,
-,,,CF,
-,,,CF,
+ip,mbps,tcp_ms,http_ms,jitter,colo,score
+172.64.229.206,44.31,60,407,10,NRT,59.06
+172.67.239.221,4.74,200,735,4,AMS,4.42
